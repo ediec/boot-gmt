@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Boostrap
 ================
 
@@ -46,3 +47,6 @@ Credits
 
 License
 -------
+=======
+# boot-gmt
+>>>>>>> dd70daad21025b2507a074b34556dd8bb41cebc0
